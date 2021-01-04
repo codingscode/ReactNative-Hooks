@@ -1,8 +1,12 @@
 
 
+react native com expo
+no terminal:   npm i @react-navigation/native
+               expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+               npm install @react-navigation/stack
 
-no terminal: npx react-native init rncrud
-
+react native elements
+               npm i --save react-native-vector-icons  
 
 
 
