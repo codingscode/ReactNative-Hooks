@@ -1,0 +1,13 @@
+
+
+
+no terminal: npx react-native init rncrud
+
+
+
+
+
+
+
+
+
